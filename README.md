@@ -12,11 +12,13 @@ This environment is presented in the Sutton and Barto's book: Reinforcement Lear
 
 ## This package
 
-This minimalist package was created to be used as a [OpenAI Gym](https://gym.openai.com/) environment. The code was based on the exercises of [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) from Coursera.
-
 There is not a renderization of the environment (issue #1). Pull requests with this contribution are welcome.   :)
 
 ## Installation and Use
 
 To install the package you need to clone (or download) the repository and use the command `pip install -e gym-cliffwalking`. 
 To create an instance of the environment in python code use `gym.make('gym_cliffwalking:cliffwalking-v0')`.
+
+## Original Repository
+
+For the original repository check '"https://github.com/caburu/gym-cliffwalking" 
